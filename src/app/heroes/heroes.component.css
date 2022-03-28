@@ -76,3 +76,8 @@ label {
 button {
   margin-left: 10px;
 }
+
+.delete {
+  border: none;
+  display: inline-block;
+}
